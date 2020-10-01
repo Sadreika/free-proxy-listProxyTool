@@ -22,7 +22,7 @@ namespace free_proxy_listProxyTool
         {
 
         }
-        public List<Proxy> hidemyProxy()
+        public List<Proxy> freeProxyListProxy()
         {
             string url = "https://free-proxy-list.net/";
 
