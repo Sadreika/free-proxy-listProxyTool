@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "free-proxy-listProxyTool", "free-proxy-listProxyTool\free-proxy-listProxyTool.csproj", "{7D4AA60A-FAAB-4738-8589-D4563CF5EDEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D4AA60A-FAAB-4738-8589-D4563CF5EDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4AA60A-FAAB-4738-8589-D4563CF5EDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4AA60A-FAAB-4738-8589-D4563CF5EDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4AA60A-FAAB-4738-8589-D4563CF5EDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A13797-DF6B-4674-A295-BF7761D8303F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\bin\Debug\free-proxy-listProxyTool.exe.config
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\bin\Debug\free-proxy-listProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\bin\Debug\free-proxy-listProxyTool.pdb
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\obj\Debug\free-proxy-listProxyTool.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\obj\Debug\free-proxy-listProxyTool.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\obj\Debug\free-proxy-listProxyTool.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\obj\Debug\free-proxy-listProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\free-proxy-listProxyTool\free-proxy-listProxyTool\free-proxy-listProxyTool\obj\Debug\free-proxy-listProxyTool.pdb
